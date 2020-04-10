@@ -1,10 +1,16 @@
 # Project Description
 
-A brief description of what this repository is for and what it contains
+The Concordance Between RNA-Seq and Microarray Data Depends on Chemical
+Treatment and Transcript Abundance
+
 
 # Contributors
+Data Curator: Cory Williams
+Programmer: Caroline Muriithi
+Analyst: Zeyuan Cao
+Biologist: Nicholas Mosca
+TA: Dakota
 
-List contributor names and github user names, or email addresses if desired
 
 # Repository Contents
 
