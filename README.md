@@ -13,5 +13,6 @@ TA: Dakota
 
 
 # Repository Contents
+The repository has script/code for all the roles and a final report for the project. In addition to this, we have also uploaded figures/deliverables needed.
 
 Provide a brief description of each script/code file in this repo, what it does, and how to execute it
