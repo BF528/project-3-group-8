@@ -1,0 +1,52 @@
+```{r}
+
+setwd("/Users/nick/documents/bf528/project3")
+
+read_labeled_counts <- read.csv(file= "labeled_counts.csv", stringsAsFactors = FALSE, row.names = 1, header = TRUE )
+
+
+
+
+#read_example_deseq_results <- read.csv(file= "example_deseq_norm_counts.csv", stringsAsFactors = FALSE, row.names = 1, header = TRUE )
+
+```
+
+
+
+
+```{r}
+count_matrix <-as.matrix(read_labeled_counts)
+```
+
+
+```{r}
+
+full_heatmap <-heatmap(count_matrix, scale = "row",margins = c(9, 0),Colv = NA)
+
+```
+
+
+
+
+
+
+```{r}
+
+
+```
+
+```{r}
+```
+
+
+
+```
+
+
+```{r}
+```
+
+
+
+```
+
